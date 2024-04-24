@@ -22,7 +22,7 @@ This is a web-based College Club Management System developed using Spring Boot, 
 
 1. Clone the repository to your local machine.
 2. Import the project into your preferred IDE (Eclipse, IntelliJ, etc.).
-3. Set up the required dependencies and configurations (Java, Spring Boot, Maven).
+3. Set up the required dependencies and configurations like the sql database connection(Java, Spring Boot, Maven).
 4. Run the application locally using the embedded server provided by Spring Boot.
 5. Access the application through your browser using the specified port (usually `localhost:8080`).
 
@@ -36,5 +36,5 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use and 
 
 ## Acknowledgements
 
-- Special thanks to the contributors and developers of Spring Boot and other open-source libraries used in this project.
-- This project was developed as part of the Object-Oriented Analysis and Design course at [University Name].
+- Special thanks Sana Suman, Shriya Marella and Manoj Kumar HS
+- This project was developed as part of the Object Oriented Analysis and Design course at PES University.
